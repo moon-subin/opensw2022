@@ -1,4 +1,4 @@
-include "myfuncs.h"
+#include "myfuncs.h"
 #include <stdio.h>
 
 void foo(void) {
@@ -7,4 +7,4 @@ void foo(void) {
 
 void goo(void) {
 	printf("hello goo\n");
-}}
+}
